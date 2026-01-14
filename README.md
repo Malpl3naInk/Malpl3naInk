@@ -1,7 +1,11 @@
+### Contributions
+
 [![Malpl3naInk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Malpl3naInk&theme=github-compact&border_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Wakatime](https://wakatime.com/badge/user/2c914ed8-2bb9-439d-8562-21f7e273b40d.svg?style=for-the-badge)
 ![Ling-Ink's stars](https://img.shields.io/github/stars/Malpl3naInk?style=for-the-badge&logo=github)
+
+### Skills
 
 | Key             | Value                                                |
 |-----------------|------------------------------------------------------|
