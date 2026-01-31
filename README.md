@@ -5,6 +5,8 @@
 ![Wakatime](https://wakatime.com/badge/user/2c914ed8-2bb9-439d-8562-21f7e273b40d.svg?style=for-the-badge)
 ![Ling-Ink's stars](https://img.shields.io/github/stars/Malpl3naInk?style=for-the-badge&logo=github)
 
+![Wakatime](https://wakatime.com/share/@Crystal_Moling/08333182-e120-4f2d-bae4-c36c7ae78b9a.svg)
+
 ### Skills
 
 | Key             | Value                                                |
